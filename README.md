@@ -1,2 +1,2 @@
-# Blogs
+# blogs
 setting of my blogs
